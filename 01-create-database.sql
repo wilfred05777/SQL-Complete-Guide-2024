@@ -1,1 +1,4 @@
 CREATE DATABASE Talently;
+
+-- CREATE DATABASE Bummer;
+

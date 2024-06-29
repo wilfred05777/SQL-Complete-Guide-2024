@@ -9,3 +9,5 @@ CREATE TABLE users (
 
     current_status('employed', 'self-employed', 'unemployed') -- MySQL snytax
 );
+
+
