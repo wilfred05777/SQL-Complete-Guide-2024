@@ -1,0 +1,1 @@
+-- sql status; not working her but working in a commandline
