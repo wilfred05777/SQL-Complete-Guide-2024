@@ -1,4 +1,6 @@
 -- use bummer;
 
 
-use sari_sari_store;
+-- use sari_sari_store;
+
+use Talently;
