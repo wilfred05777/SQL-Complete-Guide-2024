@@ -1,1 +1,1 @@
-mysql -u root -p
+mysql -u root -p admin12345;
