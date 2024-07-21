@@ -1,3 +1,5 @@
+-- https://github.com/academind/sql-complete-guide-code
+
 CREATE TABLE employers(
     company_name varchar(250),
     company_address varchar(300),

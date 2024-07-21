@@ -1,3 +1,5 @@
+-- https://github.com/academind/sql-complete-guide-code
+
 -- CREATE DATABASE Talently;
 
 -- CREATE DATABASE Bummer;

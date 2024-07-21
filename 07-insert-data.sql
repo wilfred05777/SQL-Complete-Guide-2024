@@ -1,3 +1,5 @@
+-- https://github.com/academind/sql-complete-guide-code
+
 -- -- use talently;
 
 -- insert into employers(company_name, company_address, yearly_revenue, is_hiring) values(

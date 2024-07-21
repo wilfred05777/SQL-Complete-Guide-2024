@@ -1,3 +1,5 @@
+-- https://github.com/academind/sql-complete-guide-code
+
 CREATE TABLE conversation(
     user_name VARCHAR(200),
     employer_name VARCHAR(250),

@@ -1,3 +1,5 @@
+-- https://github.com/academind/sql-complete-guide-code
+
 use sari_sari_store;
 
 CREATE table products(
