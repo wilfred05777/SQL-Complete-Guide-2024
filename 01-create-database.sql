@@ -7,4 +7,7 @@
 
 -- CREATE DATABASE Store;
 
-CREATE DATABASE sari_sari_store;
+-- CREATE DATABASE sari_sari_store;
+
+
+CREATE DATABASE sales2;
